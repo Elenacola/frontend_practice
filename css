@@ -1,0 +1,29 @@
+body {
+  padding-top: 55px;
+  color: #fff;
+  background: 	#708090;
+}
+.navbar {
+  background-color: #000000;
+  height:54px;
+}
+
+.navbar ul li a {
+  color: #FFF;
+}
+
+.form-control {
+height: 40px;
+background-color: transparent;
+border: 3px solid #FFFDFD;
+border-radius:0;
+
+}
+
+footer {
+  position:fixed;
+  padding: 50px;
+  bottom:0;
+  margin: 0 auto;
+  width: 100%;
+}
