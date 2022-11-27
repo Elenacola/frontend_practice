@@ -5,7 +5,7 @@
     <title>Siti Web e APP responsive :: Video-Corsi.com</title>
     <meta name="description" content="">
     <link rel="shortcut icon" href="">
-    <link href="style.css rel=style"/>
+    <link href="style.css" rel="style"/>
 
 <nav class="navbar navbar-expand-md fixed-top navbar-dark">           
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bottommenu">
