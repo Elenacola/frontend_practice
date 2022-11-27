@@ -48,6 +48,78 @@
   </div>
   </div>
 </div>
+
+<div class="row bgr2">
+      <div class="col-sm-3 col-md-3 ml-auto">
+        <div class="form-group">
+          <legend>COL1</legend>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Cotton Florence</a>
+                        </li>
+                        <li><a href="#">Coffe Shop</a>
+                        </li>
+                        <li><a href="#">London Building</a>
+                        </li>
+                    </ul>
+        </div>  
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="form-group">
+          <legend>COL2</legend>
+                              <ul class="list-unstyled">
+                        <li><a href="#">Cotton Florence</a>
+                        </li>
+                        <li><a href="#">Coffe Shop</a>
+                        </li>
+                        <li><a href="#">London Building</a>
+                        </li>
+                    </ul>
+        </div>  
+      </div>
+      <div class="col-sm-6 col-md-2 mr-auto">
+        <div class="form-group">
+          <legend>COL3</legend>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Cotton Florence</a>
+                        </li>
+                        <li><a href="#">Coffe Shop</a>
+                        </li>
+                        <li><a href="#">London Building</a>
+                        </li>
+                    </ul>
+        </div>  
+      </div>
+</div>
+  </div>
+</div>
+
+
+<legend>COL4</legend>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Cotton Florence</a>
+                        </li>
+                        <li><a href="#">Coffe Shop</a>
+                        </li>
+                        <li><a href="#">London Building</a>
+                        </li>
+                    </ul>
+        </div>  
+
+<div class="row bgr5">
+      <div class="col-sm-3 col-md-3 ml-auto">
+        <div class="form-group">
+          <legend>BOX5</legend>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Cotton Florence</a>
+                        </li>
+                        <li><a href="#">Coffe Shop</a>
+                        </li>
+                        <li><a href="#">London Building</a>
+                        </li>
+                    </ul>
+        </div>  
+      </div>
+      
 <footer>
 <div class="container-fluid">
 <div class="row justify-content-center">
